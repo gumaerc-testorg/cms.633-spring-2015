@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e7467490-f602-a847-3f3c-30bc6629f9a0
 title: Situating Digital Humanities Projects in Real-World Contexts
 uid: 62c423df-fd01-0667-0dd5-45a8c1f6d8b7

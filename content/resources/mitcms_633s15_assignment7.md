@@ -2,8 +2,12 @@
 content_type: resource
 description: This is a resource file that contains information regarding assignment
   7.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-633-digital-humanities-spring-2015/8dbce48472ff7cb10ab4b10b4c1dc40c_MITCMS_633S15_Assignment7.pdf
+file: /media/courses/cms-633-digital-humanities-spring-2015/8dbce48472ff7cb10ab4b10b4c1dc40c_MITCMS_633S15_Assignment7.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: CMS.633 Spring 2015 Assignment 7
 uid: 8dbce484-72ff-7cb1-0ab4-b10b4c1dc40c

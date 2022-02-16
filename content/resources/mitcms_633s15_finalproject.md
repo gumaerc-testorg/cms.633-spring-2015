@@ -2,8 +2,12 @@
 content_type: resource
 description: This is a resource file that contains information regarding final project
   schedule.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-633-digital-humanities-spring-2015/66c7608930d83e05ed6f7f05ca464fc5_MITCMS_633S15_FinalProject.pdf
+file: /media/courses/cms-633-digital-humanities-spring-2015/66c7608930d83e05ed6f7f05ca464fc5_MITCMS_633S15_FinalProject.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: CMS.633 Spring 2015 Final Project Schedule
 uid: 66c76089-30d8-3e05-ed6f-7f05ca464fc5

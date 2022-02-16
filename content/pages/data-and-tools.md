@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Data and Tools
 uid: bfa0ba1a-f2c5-d875-0b5e-dd5d28457cfb
 ---

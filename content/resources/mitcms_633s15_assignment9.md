@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: a70f1736-fefc-bf34-797b-7bf238aad1dc
 resourcetype: Document
 title: CMS.633 Spring 2015 Assignment 9
 uid: 9e626689-0107-9638-bbd0-d42a1e48768a

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
+parent_uid: a70f1736-fefc-bf34-797b-7bf238aad1dc
 resourcetype: Document
 title: CMS.633 Spring 2015 Final Project Schedule
 uid: 66c76089-30d8-3e05-ed6f-7f05ca464fc5

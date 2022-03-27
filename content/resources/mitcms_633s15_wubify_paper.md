@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Projects
 parent_type: CourseSection
+parent_uid: b4302039-145d-4752-695e-307a998676ef
 resourcetype: Document
 title: 'CMS.633 S15: Wubify.me Design Document'
 uid: 4710f95e-9716-0549-e35b-a1829358393e

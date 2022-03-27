@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Projects
 parent_type: CourseSection
+parent_uid: b4302039-145d-4752-695e-307a998676ef
 resourcetype: Document
 title: CMS.633 S15 Student Project NewsConnect First Presentation
 uid: 8460e92e-ab80-a77b-269c-bbb5c053943d

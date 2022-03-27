@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Projects
 parent_type: CourseSection
+parent_uid: b4302039-145d-4752-695e-307a998676ef
 resourcetype: Document
 title: CMS.633 S15 Student Project NewsConnect Final Design Document
 uid: 25504f2e-51f3-8060-1950-c61455df8227

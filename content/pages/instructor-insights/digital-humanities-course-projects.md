@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e7467490-f602-a847-3f3c-30bc6629f9a0
 title: Digital Humanities Course Projects
 uid: b2198203-43c4-13e8-8606-4a4d40ea8d70

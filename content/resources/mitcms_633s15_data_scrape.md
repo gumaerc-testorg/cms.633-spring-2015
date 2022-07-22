@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-633-digital-humanities-spring-2015/c4a6ebb92f7169500a855424f01d0894_MITCMS_633S15_Data_Scrape.pdf
+file: /courses/cms-633-digital-humanities-spring-2015/c4a6ebb92f7169500a855424f01d0894_MITCMS_633S15_Data_Scrape.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection

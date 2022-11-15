@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Dr. Kurt Fendt and teaching assistant, Andrew Kelleher
+  Stuhl, share their insights about what makes digital humanities at MIT unique and
+  how they hope the study of digital humanities will help students become critical
+  interpreters of data in their own fields.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

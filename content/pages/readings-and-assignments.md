@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, assignments,
+  and supporting files.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Assignments
@@ -56,7 +58,7 @@ Schnapp, Jeffrey. "Digital Humanities Fundamentals" and "The Project as Basic Un
 
 ### Assignments
 
-[Assignment 1 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment1)
+{{% resource_link 69678c70-ef55-af11-2ffd-79310bf5c739 "Assignment 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +86,7 @@ Bush, Vannevar. "[As We May Think](http://www.theatlantic.com/magazine/archive/1
 
 ### Assignments
 
-[Assignment 2 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment2)
+{{% resource_link 22b8b44e-b5f9-c0ec-8ebc-0fe3158ded5e "Assignment 2 (PDF)" %}}
 
 ### Tools
 
@@ -122,7 +124,7 @@ boyd, danah, and Kate Crawford. "[Six Provocations for Big Data](http://dx.doi.o
 
 ### Assignments
 
-[Assignment 3 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment3)
+{{% resource_link 30de0423-0ccc-eccc-d002-514d78bb7930 "Assignment 3 (PDF)" %}}
 
 ### Tools
 
@@ -160,7 +162,7 @@ Blair, Ann. "[Information Overload: Then and Now](http://chronicle.com/article/I
 
 ### Assignments
 
-[Assignment 4 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment4)
+{{% resource_link af8573b3-8b43-c1bd-7704-e7619afee5b9 "Assignment 4 (PDF)" %}}
 
 ### Tools
 
@@ -198,7 +200,7 @@ Rosenberg, Daniel, and Anthony Grafton. "Time in Print." Chapter 1 in _Cartograp
 
 ### Assignments
 
-[Assignment 5 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment5)
+{{% resource_link d3b8a380-32d1-9166-e9be-90e4be481f5f "Assignment 5 (PDF)" %}}
 
 [Moby Dick Mapping Materials (ZIP - 35.6MB)](/ans7870/CMS/CMS.633/S15/mapping-moby-dick.zip) (This ZIP package contains 5 .jpeg files, 2 .txt files, 1 .ppt file, 1 .doc file, 1 .xls file, and 1 HTML document.) 
 
@@ -238,11 +240,11 @@ Discussion of Final Projects (cont.)
 
 Tufte, Edward R. "Color and Information." In _Envisioning Information_. Graphics Press, 1990. ISBN: 9780961392116.
 
-Few, Stephen. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Chartjunk Debate: A Close Examination of Recent Findings." (PDF – 1.8MB)](https://www.perceptualedge.com/articles/visual_business_intelligence/the_chartjunk_debate.pdf) _Visual Business Intelligence Newsletter_. April–June 2011.
+Few, Stephen. ["The Chartjunk Debate: A Close Examination of Recent Findings." (PDF – 1.8MB)](https://www.perceptualedge.com/articles/visual_business_intelligence/the_chartjunk_debate.pdf) _Visual Business Intelligence Newsletter_. April–June 2011.
 
 ### Assignments
 
-[Assignment 6 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment6)
+{{% resource_link b108e072-ac48-3a49-3e56-45feacdf18f0 "Assignment 6 (PDF)" %}}
 
 ### Tools
 
@@ -280,7 +282,7 @@ Simon, Nina. "Principles of Participation." _Reinventing the Museum: The Evolvin
 
 ### Assignments
 
-[Assignment 7 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment7)
+{{% resource_link 8dbce484-72ff-7cb1-0ab4-b10b4c1dc40c "Assignment 7 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -334,7 +336,7 @@ Alexander, Jane, Jake Barton, et al. "[Transforming the Art Museum Experience: G
 
 ### Assignments
 
-[Assignment 8 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment8)
+{{% resource_link 584b8872-2574-e4ef-8b7e-2e67644c4036 "Assignment 8 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -366,7 +368,7 @@ Medero, Shawn. "[Paper Prototyping](http://alistapart.com/article/paperprototypi
 
 ### Assignments
 
-[Assignment 9 (PDF)]({{< baseurl >}}/resources/mitcms_633s15_assignment9)
+{{% resource_link 9e626689-0107-9638-bbd0-d42a1e48768a "Assignment 9 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -388,9 +390,9 @@ Final Project In–Class Work Time
 {{< tdopen >}}
 
 
-[Final Presentation Guidelines (PDF)]({{< baseurl >}}/resources/mitcms_633s15_finalpres)
+{{% resource_link 5b06d7c4-46ca-5154-2f83-2c067cc3561e "Final Presentation Guidelines (PDF)" %}}
 
-[Final Project Schedule (PDF)]({{< baseurl >}}/resources/mitcms_633s15_finalproject)
+{{% resource_link 66c76089-30d8-3e05-ed6f-7f05ca464fc5 "Final Project Schedule (PDF)" %}}
 
 
 {{< tdclose >}}

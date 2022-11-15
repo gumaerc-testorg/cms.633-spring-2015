@@ -37,7 +37,9 @@
   },
   "course_title": "Digital Humanities",
   "course_description": "This course examines the theory and practice of using computational methods in the emerging field of digital humanities. It develops an understanding of key digital humanities concepts, such as data representation, digital archives, information visualization, and user interaction through the study of contemporary research, in conjunction with working on real-world projects for scholarly, educational, and public needs. Students create prototypes, write design papers, and conduct user studies.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.833",
   "primary_course_number": "CMS.633",
   "course_image_thumbnail": {
@@ -45,8 +47,10 @@
     "website": "cms-633-digital-humanities-spring-2015"
   },
   "learning_resource_types": [
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "8de40642-9446-434c-8597-7cfac8174a9d",
+  "site_uid": "f9efb35a-3980-441a-9f73-71140a5dd5a4",
+  "short_id": "cms.633-spring-2015",
   "title": "Course Metadata"
 }

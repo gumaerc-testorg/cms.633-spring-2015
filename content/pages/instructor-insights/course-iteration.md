@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: In this section, Dr. Kurt Fendt and teaching assistant, Andrew Kelleher
+  Stuhl, discuss how the core structure of the course remains the same in each iteration
+  of the course, but how the projects and topics of discussion shift in response to
+  the skills and interests of people, including the teaching assistants, doing related
+  work on campus and in the community.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

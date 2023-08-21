@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the information on course meeting times,
+  prerequisites, format, requirements, plagiarism policy, and use of MIT's HyperStudio.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

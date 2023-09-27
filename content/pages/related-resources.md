@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: This section provides links to related resources for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: b5a7dc22-9e06-cc24-9b9d-105a1c488b5f
 ---
 
-[Data Scraping Exercise (PDF)]({{< baseurl >}}/resources/mitcms_633s15_data_scrape)
+{{% resource_link c4a6ebb9-2f71-6950-0a85-5424f01d0894 "Data Scraping Exercise (PDF)" %}}
 
 [10 Effective Video Examples of Paper Prototyping](http://speckyboy.com/2010/06/24/10-effective-video-examples-of-paper-prototyping/)
 

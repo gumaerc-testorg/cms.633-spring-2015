@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to data and tools available online.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Data and Tools

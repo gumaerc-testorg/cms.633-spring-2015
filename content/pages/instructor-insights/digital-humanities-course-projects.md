@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: "In this section, Dr. Kurt Fendt and teaching assistant, Andrew Kelleher\
+  \ Stuhl, discuss the digital humanities course projects that students complete.\
+  \ They note that the projects are an opportunity for students to apply what they\u2019\
+  ve learned during the first half of the semester about core concepts in digital\
+  \ humanities. They also share their insights about using surveys to help students\
+  \ form collaborative project groups."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,7 +21,7 @@ _In this section, Dr. Kurt Fendt and teaching assistant, Andrew Kelleher Stuhl, 
 An Opportunity to Apply Core Concepts in Digital Humanities
 -----------------------------------------------------------
 
-![A picture of a man looking into the camera.]({{< resource_file a7fd0dce-791b-2a00-e940-051ba5a53adf >}})  
+{{< resource a7fd0dce-791b-2a00-e940-051ba5a53adf >}}  
 Andrew Kelleher Stuhl, Teaching Assistant for _CMS.633 Digital Humanities_ (Image by MIT OpenCourseWare).
 
 In the first half of the semester, students read theoretical texts and we discuss core concepts in digital humanities, such as data representation, digital archives, information visualization, and user interaction. Our goal is to get students thinking about data, how we turn humanities documents into data, and how approaches like geographical mapping and timeline work can shape how we understand those data. We engage them in exercises, such as data scraping, named entity recognition, and basic data visualizations, so they can understand these concepts more deeply.

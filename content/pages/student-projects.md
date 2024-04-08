@@ -24,7 +24,7 @@ Concept: NewsConnect is a web application that allows users to see global connec
 
 {{% resource_link 32494608-7c1b-8049-9830-a2497752e45f "Final Presentation (PDF - 3.1MB)" %}}
 
-[Code for the project](https://github.com/mbhatg/ConnectTheNews)
+{{% resource_link "1352bacb-f7df-4f9c-a321-2f25527a12b9" "Code for the project" %}}
 
 Wubify.me
 ---------

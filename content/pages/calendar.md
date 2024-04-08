@@ -24,7 +24,7 @@ Sample Digital Humanities Projects
 
 In-Class Activity:
 
-1. Examine the four facsimiles of [Register Pages](http://hyperstudio.mit.edu/cfrp/flip_books/index.html) from the Comedie-française in Paris.
+1. Examine the four facsimiles of {{% resource_link "df0adbdf-987f-49fa-acce-ec57b19b8ce2" "Register Pages" %}} from the Comedie-française in Paris.
 2. Identify the different categories of information.
 3. Develop a method for the extraction of this information in a digital format.
 4. Brainstorm about possible storage and access options.
@@ -38,9 +38,9 @@ In-Class Activity:
 2
 {{< tdclose >}}{{< tdopen >}}
 
-**Data Mining of Open Content:** [**The Artbot Project**](http://shass.mit.edu/news/news-2015-artbot-engineers-discovery-art)
+**Data Mining of Open Content:** {{% resource_link "7e17b1de-7d18-437c-86d8-c546b9606756" "**The Artbot Project**" %}}
 
-Guest Speakers: [Desi Gonzalez](http://cmsw.mit.edu/profile/desi-gonzalez/) and [Liam Andrew](http://cmsw.mit.edu/profile/liam-andrew/) from the CMS / Hyperstudio
+Guest Speakers: {{% resource_link "a3b58fe7-2287-46b2-a3a5-f291e8a63538" "Desi Gonzalez" %}} and {{% resource_link "f33300cc-163e-4ebd-a5bf-2db3d7036856" "Liam Andrew" %}} from the CMS / Hyperstudio
 
 Data Mining and NER Exercises
 
@@ -50,11 +50,11 @@ Assignment 1 due
 3
 {{< tdclose >}}{{< tdopen >}}
 
-**Humanities Data:** [**The Comedie-Française Registers Project (CFRP)**](http://hyperstudio.mit.edu/projects/comedie-francaise-registers-project/)
+**Humanities Data:** {{% resource_link "ad55b46e-95f9-41b5-8a14-343bde9de80b" "**The Comedie-Française Registers Project (CFRP)**" %}}
 
 From Written Records to Humanities Data
 
-Guest Speaker: [Jeff Ravel](https://history.mit.edu/people/jeffrey-s-ravel), MIT History Department
+Guest Speaker: {{% resource_link "4b2f4b2f-da53-4129-9359-312a1c908692" "Jeff Ravel" %}}, MIT History Department
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 2 due
@@ -120,7 +120,7 @@ Assignment 6 due
 
 Final Project Pitches
 
-**Guest Speaker:** [Halsey Burgund](http://halseyburgund.com/), Artist and Mobile Developer
+**Guest Speaker:** {{% resource_link "a1a833af-a4f7-49ee-bcc5-3895215cc581" "Halsey Burgund" %}}, Artist and Mobile Developer
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 7 due
@@ -132,7 +132,7 @@ Assignment 7 due
 
 Prototyping and Wireframing
 
-**Guest Speaker:** [Frederico Casalegno](https://design.mit.edu/team/casalegno), Mobile Experience Lab
+**Guest Speaker:** {{% resource_link "c579585f-758f-41c7-862d-f24ea11e543f" "Frederico Casalegno" %}}, Mobile Experience Lab
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -149,7 +149,7 @@ Final Project In-Class Work Time
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-**Guest Speaker:** [Andy Stuhl](http://cmsw.mit.edu/profile/andy-stuhl/), Digital Sound Studies & Sound Projects
+**Guest Speaker:** {{% resource_link "cfa3a869-25e0-490e-80d8-58753df6830c" "Andy Stuhl" %}}, Digital Sound Studies & Sound Projects
 {{< tdclose >}}{{< tdopen >}}
 Assignment 8 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

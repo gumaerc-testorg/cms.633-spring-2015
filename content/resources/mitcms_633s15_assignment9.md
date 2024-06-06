@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding assignment
   9.
 file: /courses/cms-633-digital-humanities-spring-2015/9e62668901079638bbd0d42a1e48768a_MITCMS_633S15_Assignment9.pdf
+file_size: 138182
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

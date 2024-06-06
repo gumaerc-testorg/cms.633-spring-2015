@@ -37,7 +37,7 @@ Sample DH Projects
 
 In–Class Activity
 
-1.  Examine the four facsimiles of {{% resource_link "df0adbdf-987f-49fa-acce-ec57b19b8ce2" "Register Pages" %}} from the Comedie–Française in Paris.
+1.  Examine the four facsimiles of [Register Pages](http://hyperstudio.mit.edu/cfrp/flip_books/index.html) from the Comedie–Française in Paris.
 2.  Identify the different categories of information.
 3.  Develop a method for the extraction of this information in a digital format.
 4.  Brainstorm about possible storage and access options.
@@ -52,9 +52,9 @@ In–Class Activity
 
 ### Readings
 
-Schnapp, Jeffrey. "Digital Humanities Fundamentals" and "The Project as Basic Unit." In {{% resource_link "8cf9b8a1-5c8d-4f0d-9d28-aa2961dddf36" "_A Short Guide to the Digital\_Humanities_" %}}. SG2–SG5.
+Schnapp, Jeffrey. "Digital Humanities Fundamentals" and "The Project as Basic Unit." In [_A Short Guide to the Digital\_Humanities_](http://jeffreyschnapp.com/short-guide-to-the-digital_humanities/). SG2–SG5.
 
-{{% resource_link "7b4ea910-c323-4c3a-b40f-cad37ba9df91" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Burdick, Anne, Johanna Drucker, et al. _Digital\_Humanities_. MIT Press, 2012. ISBN: 9780262018470. \[Free download available\].
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262018470) Burdick, Anne, Johanna Drucker, et al. _Digital\_Humanities_. MIT Press, 2012. ISBN: 9780262018470. \[Free download available\].
 
 ### Assignments
 
@@ -69,9 +69,9 @@ Schnapp, Jeffrey. "Digital Humanities Fundamentals" and "The Project as Basic Un
 {{< tdopen >}}
 
 
-**Data Mining of Open Content:** {{% resource_link "7e17b1de-7d18-437c-86d8-c546b9606756" "**The Artbot Project**" %}}
+**Data Mining of Open Content:** [**The Artbot Project**](http://shass.mit.edu/news/news-2015-artbot-engineers-discovery-art)
 
-Guest Speakers: {{% resource_link "a3b58fe7-2287-46b2-a3a5-f291e8a63538" "Desi Gonzalez" %}} and {{% resource_link "f33300cc-163e-4ebd-a5bf-2db3d7036856" "Liam Andrew" %}} from the CMS / Hyperstudio
+Guest Speakers: [Desi Gonzalez](http://cmsw.mit.edu/profile/desi-gonzalez/) and [Liam Andrew](http://cmsw.mit.edu/profile/liam-andrew/) from the CMS / Hyperstudio
 
 Data Mining and NER Exercises
 
@@ -82,7 +82,7 @@ Data Mining and NER Exercises
 
 ### Readings
 
-Bush, Vannevar. "{{% resource_link "f4df6fbd-ad76-4210-8d90-5f220a2c3fb2" "As We May Think" %}}." _The Atlantic_, July 1945.
+Bush, Vannevar. "[As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." _The Atlantic_, July 1945.
 
 ### Assignments
 
@@ -90,11 +90,11 @@ Bush, Vannevar. "{{% resource_link "f4df6fbd-ad76-4210-8d90-5f220a2c3fb2" "As We
 
 ### Tools
 
-{{% resource_link "af13ae72-b049-4d70-9d19-a0294c77dcc5" "import.io" %}}
+[import.io](https://import.io/)
 
-{{% resource_link "4314e810-da91-4c6a-8551-5792b321aa1c" "OpenRefine" %}}
+[OpenRefine](http://openrefine.org/)
 
-{{% resource_link "f4ca8c5e-dd6f-423a-8478-d12e84a3cff2" "Kimono" %}}
+[Kimono](https://www.crunchbase.com/organization/kimono)
 
 
 {{< tdclose >}}
@@ -107,11 +107,11 @@ Bush, Vannevar. "{{% resource_link "f4df6fbd-ad76-4210-8d90-5f220a2c3fb2" "As We
 {{< tdopen >}}
 
 
-**Humanities Data:** **The** {{% resource_link "ad55b46e-95f9-41b5-8a14-343bde9de80b" "**Comedie–Française Registers Project**" %}} **(CFRP)**
+**Humanities Data:** **The** [**Comedie–Française Registers Project**](http://hyperstudio.mit.edu/projects/comedie-francaise-registers-project/) **(CFRP)**
 
 From Written Records to Humanities Data
 
-Guest Speaker: {{% resource_link "4b2f4b2f-da53-4129-9359-312a1c908692" "Jeff Ravel" %}}, MIT History Department
+Guest Speaker: [Jeff Ravel](https://history.mit.edu/people/jeffrey-s-ravel), MIT History Department
 
 
 {{< tdclose >}}
@@ -120,7 +120,7 @@ Guest Speaker: {{% resource_link "4b2f4b2f-da53-4129-9359-312a1c908692" "Jeff Ra
 
 ### Readings
 
-boyd, danah, and Kate Crawford. "{{% resource_link "7d541c13-8e7c-43a9-92fb-a6636850c02b" "Six Provocations for Big Data" %}}." _A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society, September 2011_.
+boyd, danah, and Kate Crawford. "[Six Provocations for Big Data](http://dx.doi.org/10.2139/ssrn.1926431)." _A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society, September 2011_.
 
 ### Assignments
 
@@ -152,13 +152,13 @@ Work with CRFP Data
 
 ### Readings
 
-Blair, Ann. "{{% resource_link "1c6c9434-1ac3-41c3-883e-1a41ee77a8ca" "Information Overload: Then and Now" %}}." _The Chronicle of Higher Education_, November 28, 2010.
+Blair, Ann. "[Information Overload: Then and Now](http://chronicle.com/article/Information-Overload-Then-and/125479/)." _The Chronicle of Higher Education_, November 28, 2010.
 
-{{% resource_link "167b0b9b-b16c-4db1-997b-7ad6ddcb4778" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Manovich, Lev. "The Database." In _The Language of New Media_. MIT Press, 2002. ISBN: 9780262632553.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262632553) Manovich, Lev. "The Database." In _The Language of New Media_. MIT Press, 2002. ISBN: 9780262632553.
 
 ### Optional
 
-{{% resource_link "73c2ea95-fbd6-4222-acd3-37101d8de096" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bowker, Geoffrey, and Susan Leigh Star. S_orting Things Out: Classification and Its Consequences_. MIT Press, 2000. ISBN: 9780262522953.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522953) Bowker, Geoffrey, and Susan Leigh Star. S_orting Things Out: Classification and Its Consequences_. MIT Press, 2000. ISBN: 9780262522953.
 
 ### Assignments
 
@@ -166,7 +166,7 @@ Blair, Ann. "{{% resource_link "1c6c9434-1ac3-41c3-883e-1a41ee77a8ca" "Informati
 
 ### Tools
 
-{{% resource_link "2511d0d5-b305-40b7-9c72-510fdba69464" "D3:js" %}}
+[D3:js](http://d3js.org/)
 
 
 {{< tdclose >}}
@@ -194,7 +194,7 @@ Discussion of Final Projects
 
 ### Readings
 
-Drucker, Johanna. "{{% resource_link "eab34b52-9328-4d1a-942d-0ed613b8bcb4" "Humanities Approaches to Graphical Display" %}}." _Digital Humanities Quarterly_ 5, no. 1 (2011).
+Drucker, Johanna. "[Humanities Approaches to Graphical Display](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)." _Digital Humanities Quarterly_ 5, no. 1 (2011).
 
 Rosenberg, Daniel, and Anthony Grafton. "Time in Print." Chapter 1 in _Cartographies of Time: A History of the Timeline_. Princeton Architectural Press, 2012. ISBN: 9781616890582.
 
@@ -206,15 +206,15 @@ Rosenberg, Daniel, and Anthony Grafton. "Time in Print." Chapter 1 in _Cartograp
 
 ### Tools
 
-{{% resource_link "7d638790-e88f-4a6c-bff9-fcde1eb53c13" "CartoDB" %}}
+[CartoDB](https://cartodb.com/)
 
-{{% resource_link "3f3045df-93cf-47b2-bff8-4c67a75e7f8a" "Google Fusion Tables" %}}
+[Google Fusion Tables](https://sites.google.com/site/fusiontablestalks/stories)
 
-{{% resource_link "01d32d53-0ebc-4a62-a31d-6c130b9a1f79" "Google Maps" %}} / {{% resource_link "b4b12e3d-4276-446d-91b1-827b5893c4ae" "Earth Pro" %}}
+[Google Maps](https://www.google.com/maps) / [Earth Pro](https://www.google.com/earth/)
 
-{{% resource_link "3205edc8-7f2e-48b8-a865-377eb7b13d38" "Mapbox" %}}
+[Mapbox](https://www.mapbox.com/)
 
-{{% resource_link "89bebbf8-3d2a-4fb3-9090-6fc0b35d4ea0" "TileMill" %}}
+[TileMill](https://www.mapbox.com/tilemill/)
 
 
 {{< tdclose >}}
@@ -240,7 +240,7 @@ Discussion of Final Projects (cont.)
 
 Tufte, Edward R. "Color and Information." In _Envisioning Information_. Graphics Press, 1990. ISBN: 9780961392116.
 
-Few, Stephen. {{% resource_link "d0e4a4e8-88b2-4e24-9188-6a00753afcd2" "\"The Chartjunk Debate: A Close Examination of Recent Findings.\" (PDF – 1.8MB)" %}} _Visual Business Intelligence Newsletter_. April–June 2011.
+Few, Stephen. ["The Chartjunk Debate: A Close Examination of Recent Findings." (PDF – 1.8MB)](https://www.perceptualedge.com/articles/visual_business_intelligence/the_chartjunk_debate.pdf) _Visual Business Intelligence Newsletter_. April–June 2011.
 
 ### Assignments
 
@@ -248,9 +248,9 @@ Few, Stephen. {{% resource_link "d0e4a4e8-88b2-4e24-9188-6a00753afcd2" "\"The Ch
 
 ### Tools
 
-{{% resource_link "3162fd49-0e65-4e93-ba31-9cce4bafdb80" "TimeMapper" %}}
+[TimeMapper](http://timemapper.okfnlabs.org/)
 
-{{% resource_link "b76371d1-c978-49f0-8d07-816a520d8a72" "SIMILE Timeline" %}}
+[SIMILE Timeline](http://www.simile-widgets.org/timeline/)
 
 
 {{< tdclose >}}
@@ -276,7 +276,7 @@ Selection of Final Projects
 
 ### Readings
 
-Chitty, Andrew. "{{% resource_link "ae39f9d6-8c21-4bb7-88d5-2fc037ce3214" "London Re-cut: Reclaiming History through the Co-curated Remixing of Film" %}}." _Curator: The Museum Journal_ 54, no. 4 (October 2011): 413-418. 
+Chitty, Andrew. "[London Re-cut: Reclaiming History through the Co-curated Remixing of Film](http://onlinelibrary.wiley.com/doi/10.1111/j.2151-6952.2011.00106.x/full)." _Curator: The Museum Journal_ 54, no. 4 (October 2011): 413-418. 
 
 Simon, Nina. "Principles of Participation." _Reinventing the Museum: The Evolving Conversation on the Paradigm Shift_. AltaMira Press, 2012. ISBN: 9780759119659.
 
@@ -319,7 +319,7 @@ Explore Ieraction between Technology and Public Spaces
 
 Final Project Pitches
 
-**Guest Speaker:** {{% resource_link "a1a833af-a4f7-49ee-bcc5-3895215cc581" "Halsey Burgund" %}}, Artist and Mobile Developer
+**Guest Speaker:** [Halsey Burgund](http://halseyburgund.com/), Artist and Mobile Developer
 
 
 {{< tdclose >}}
@@ -328,11 +328,11 @@ Final Project Pitches
 
 ### Readings
 
-Manovich, Lev. "{{% resource_link "3767f418-89f0-4f6b-8889-f0fe5c01a2bb" "The Poetics of Augmented Space" %}}." 2012.
+Manovich, Lev. "[The Poetics of Augmented Space](http://manovich.net/index.php/projects/the-poetics-of-augmented-space)." 2012.
 
-Alexander, Jane, Jake Barton, et al. "{{% resource_link "856cb700-7364-4c0d-a6d5-f2c1e7b0d827" "Transforming the Art Museum Experience: Gallery One" %}}." _MW2013: Museums and the Web 2013: The Annual Conference of Museums and the Web_. April 17–20, 2013.
+Alexander, Jane, Jake Barton, et al. "[Transforming the Art Museum Experience: Gallery One](http://mw2013.museumsandtheweb.com/paper/transforming-the-art-museum-experience-gallery-one-2/)." _MW2013: Museums and the Web 2013: The Annual Conference of Museums and the Web_. April 17–20, 2013.
 
-"{{% resource_link "14a62e84-fb00-4633-8c11-547ca8d945bd" "Human Centered Design Toolkit" %}}." Design Thinking Blog Listening.
+"[Human Centered Design Toolkit](https://www.designkit.org/)." Design Thinking Blog Listening.
 
 ### Assignments
 
@@ -353,7 +353,7 @@ Alexander, Jane, Jake Barton, et al. "{{% resource_link "856cb700-7364-4c0d-a6d5
 
 Prototyping and Wireframing
 
-**Guest Speaker:** {{% resource_link "c579585f-758f-41c7-862d-f24ea11e543f" "Frederico Casalegno" %}}, Mobile Experience Lab
+**Guest Speaker:** [Frederico Casalegno](https://design.mit.edu/team/casalegno), Mobile Experience Lab
 
 
 {{< tdclose >}}
@@ -362,9 +362,9 @@ Prototyping and Wireframing
 
 ### Readings
 
-Brown, Dan. _Communicating Design: Developing Web Site Documentation for Design and Planning_. New Riders, 2010. ISBN: 9780321712462. \[Preview with {{% resource_link "b804ac52-f411-40db-b768-e992ec603467" "Google Books" %}}\]
+Brown, Dan. _Communicating Design: Developing Web Site Documentation for Design and Planning_. New Riders, 2010. ISBN: 9780321712462. \[Preview with [Google Books](http://books.google.com/books?id=6dlFc4iwbuIC&printsec=frontcover)\]
 
-Medero, Shawn. "{{% resource_link "01a4564f-6b0e-40e6-8a87-a059c92fd4e5" "Paper Prototyping" %}}." A List Apart. January 23, 2007.
+Medero, Shawn. "[Paper Prototyping](http://alistapart.com/article/paperprototyping)." A List Apart. January 23, 2007.
 
 ### Assignments
 
@@ -403,7 +403,7 @@ Final Project In–Class Work Time
 12
 {{< tdclose >}}
 {{< tdopen >}}
-**Guest Speaker:** {{% resource_link "cfa3a869-25e0-490e-80d8-58753df6830c" "Andy Stuhl" %}}, Digital Sound Studies & Sound Projects
+**Guest Speaker:** [Andy Stuhl](http://cmsw.mit.edu/profile/andy-stuhl/), Digital Sound Studies & Sound Projects
 {{< tdclose >}}
 {{< tdopen >}}
 

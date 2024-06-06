@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding final design document. '
 file: /courses/cms-633-digital-humanities-spring-2015/25504f2e51f380601950c61455df8227_MITCMS_633S15_FinalDesign.pdf
+file_size: 602275
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

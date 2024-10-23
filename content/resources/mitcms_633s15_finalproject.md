@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding final project
   schedule.
-file: /courses/cms-633-digital-humanities-spring-2015/66c7608930d83e05ed6f7f05ca464fc5_MITCMS_633S15_FinalProject.pdf
+file: /ol-ocw-studio-app/courses/cms-633-digital-humanities-spring-2015/66c7608930d83e05ed6f7f05ca464fc5_MITCMS_633S15_FinalProject.pdf
 file_size: 575331
 file_type: application/pdf
 learning_resource_types: []

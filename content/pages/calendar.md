@@ -24,7 +24,7 @@ Sample Digital Humanities Projects
 
 In-Class Activity:
 
-1. Examine the four facsimiles of [Register Pages](http://hyperstudio.mit.edu/cfrp/flip_books/index.html) from the Comedie-française in Paris.
+1. Examine the four facsimiles of Register Pages from the Comedie-française in Paris.
 2. Identify the different categories of information.
 3. Develop a method for the extraction of this information in a digital format.
 4. Brainstorm about possible storage and access options.
@@ -50,7 +50,7 @@ Assignment 1 due
 3
 {{< tdclose >}}{{< tdopen >}}
 
-**Humanities Data:** [**The Comedie-Française Registers Project (CFRP)**](http://hyperstudio.mit.edu/projects/comedie-francaise-registers-project/)
+**Humanities Data:** **The Comedie-Française Registers Project (CFRP)**
 
 From Written Records to Humanities Data
 
@@ -132,7 +132,7 @@ Assignment 7 due
 
 Prototyping and Wireframing
 
-**Guest Speaker:** [Frederico Casalegno](https://design.mit.edu/team/casalegno), Mobile Experience Lab
+**Guest Speaker:** Frederico Casalegno, Mobile Experience Lab
 
 {{< tdclose >}}{{< tdopen >}}
  

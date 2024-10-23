@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding assignment
   4.
-file: /courses/cms-633-digital-humanities-spring-2015/af8573b38b43c1bd7704e7619afee5b9_MITCMS_633S15_Assignment4.pdf
+file: /ol-ocw-studio-app/courses/cms-633-digital-humanities-spring-2015/af8573b38b43c1bd7704e7619afee5b9_MITCMS_633S15_Assignment4.pdf
 file_size: 597598
 file_type: application/pdf
 learning_resource_types: []

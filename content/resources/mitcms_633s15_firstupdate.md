@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding first project update. '
-file: /courses/cms-633-digital-humanities-spring-2015/2545962328d335c69fc655a5d2ab3793_MITCMS_633S15_FirstUpdate.pdf
+file: /ol-ocw-studio-app/courses/cms-633-digital-humanities-spring-2015/2545962328d335c69fc655a5d2ab3793_MITCMS_633S15_FirstUpdate.pdf
 file_size: 537380
 file_type: application/pdf
 learning_resource_types: []

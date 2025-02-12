@@ -4,6 +4,7 @@ description: In this section, Dr. Kurt Fendt and teaching assistant, Andrew Kell
   Stuhl, share their insights about using Annotation Studio to promote collaborative
   close readings and to engage students in the digital humanities tool development
   process.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -13,13 +14,13 @@ parent_uid: e7467490-f602-a847-3f3c-30bc6629f9a0
 title: Annotation Studio
 uid: 81c1c6ca-04ee-5ab0-1ed9-303701db2c25
 ---
-_In this section, Dr. Kurt Fendt and teaching assistant, Andrew Kelleher Stuhl, share their insights about using Annotation Studio to promote collaborative close readings and to engage students in the digital humanities tool development process._
+*In this section, Dr. Kurt Fendt and teaching assistant, Andrew Kelleher Stuhl, share their insights about using Annotation Studio to promote collaborative close readings and to engage students in the digital humanities tool development process.*
 
 ## Using Annotation Studio to Promote Collaborative Close Readings
 
 {{< quote "Right from the start of the course, we tell students that we’ve developed Annotation Studio here at MIT, that it is still a work in progress, and that their feedback as end users, will shape its development." "— Kurt Fendt & Andrew Kelleher Stuhl" >}}
 
-We use [Annotation Studio](http://www.annotationstudio.org/), a collaborative annotation space developed by [HyperStudio](http://hyperstudio.mit.edu/) (the laboratory for digital humanities directed by Dr. Fendt), to promote close reading in this course. By using the application, students are able to see each other’s highlights and comments on texts as they read them. They are also able to use the application to respond to each other's comments.
+We use [Annotation Studio](http://www.annotationstudio.org/), a collaborative annotation space developed by [HyperStudio](https://web.mit.edu/hyperstudio/staff.html) (the laboratory for digital humanities directed by Dr. Fendt), to promote close reading in this course. By using the application, students are able to see each other’s highlights and comments on texts as they read them. They are also able to use the application to respond to each other's comments.
 
 One of the texts we always read is Vannevar Bush’s (1945) “As We May Think.” The way students comment on this text is remarkable. We give them some hints about how they should structure their comments (such as the suggestion to comment on each section), but then we prompt them to think about the relationships they see in the text, the concepts that are laid out in the article, and what concepts have been realized since that time.
 
@@ -35,4 +36,4 @@ We think there’s something really great about offering this course in the cont
 
 ## Reference
 
-Bush, Vannevar. "As We May Think." _The Atlantic_ 176, no. 1 (1945): 101-108.
+Bush, Vannevar. "As We May Think." *The Atlantic* 176, no. 1 (1945): 101-108.

@@ -48,7 +48,7 @@ Schnapp, Jeffrey. "Digital Humanities Fundamentals" and "The Project as Basic Un
 2
 {{< tdclose >}}{{< tdopen >}}
 
-**Data Mining of Open Content:** [**The Artbot Project**](http://shass.mit.edu/news/news-2015-artbot-engineers-discovery-art)
+**Data Mining of Open Content:** [**The Artbot Project**](https://news.mit.edu/2015/artbot-engineers-discovery-art-0513)
 
 Guest Speakers: [Desi Gonzalez](http://cmsw.mit.edu/profile/desi-gonzalez/) and [Liam Andrew](http://cmsw.mit.edu/profile/liam-andrew/) from the CMS / Hyperstudio
 
@@ -256,7 +256,7 @@ Alexander, Jane, Jake Barton, et al. "[Transforming the Art Museum Experience: G
 
 Prototyping and Wireframing
 
-**Guest Speaker:** [Frederico Casalegno](https://design.mit.edu/team/casalegno), Mobile Experience Lab
+**Guest Speaker:** [Frederico Casalegno](https://professional.mit.edu/programs/faculty-profiles/federico-casalegno), Mobile Experience Lab
 
 {{< tdclose >}}{{< tdopen >}}
 

@@ -38,7 +38,7 @@ In-Class Activity:
 2
 {{< tdclose >}}{{< tdopen >}}
 
-**Data Mining of Open Content:** [**The Artbot Project**](http://shass.mit.edu/news/news-2015-artbot-engineers-discovery-art)
+**Data Mining of Open Content:** [**The Artbot Project**](https://news.mit.edu/2015/artbot-engineers-discovery-art-0513)
 
 Guest Speakers: [Desi Gonzalez](http://cmsw.mit.edu/profile/desi-gonzalez/) and [Liam Andrew](http://cmsw.mit.edu/profile/liam-andrew/) from the CMS / Hyperstudio
 

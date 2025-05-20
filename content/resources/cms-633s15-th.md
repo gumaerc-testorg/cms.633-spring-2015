@@ -3,7 +3,7 @@ content_type: resource
 description: The interface for the app NewsConnect,that aims to visually represent
   national connections  presented in world news articles. Image courtesy of Meghana
   Bhat and Karleigh Moore. Used with permission.
-file: /ol-ocw-studio-app/courses/cms-633-digital-humanities-spring-2015/9a54331f3d1e74b8ce0a04fbc9127616_cms-633s15-th.jpg
+file: /courses/cms-633-digital-humanities-spring-2015/9a54331f3d1e74b8ce0a04fbc9127616_cms-633s15-th.jpg
 file_size: 10780
 file_type: image/jpeg
 image_metadata:

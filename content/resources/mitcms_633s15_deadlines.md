@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding pitch deadlines.
-file: /ol-ocw-studio-app/courses/cms-633-digital-humanities-spring-2015/3ee4884342cca90648d2f9d9b45565cf_MITCMS_633S15_Deadlines.pdf
+file: /courses/cms-633-digital-humanities-spring-2015/3ee4884342cca90648d2f9d9b45565cf_MITCMS_633S15_Deadlines.pdf
 file_size: 540961
 file_type: application/pdf
 learning_resource_types: []

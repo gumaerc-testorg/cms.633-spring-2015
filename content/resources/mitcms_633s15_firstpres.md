@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding first presentation. '
-file: /ol-ocw-studio-app/courses/cms-633-digital-humanities-spring-2015/8460e92eab80a77b269cbbb5c053943d_MITCMS_633S15_FirstPres.pdf
+file: /courses/cms-633-digital-humanities-spring-2015/8460e92eab80a77b269cbbb5c053943d_MITCMS_633S15_FirstPres.pdf
 file_size: 292077
 file_type: application/pdf
 learning_resource_types: []

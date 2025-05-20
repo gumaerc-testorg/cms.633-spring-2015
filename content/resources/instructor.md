@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/cms-633-digital-humanities-spring-2015/6443a6e9914af1fc5f44bfe86adaa43b_instructor.jpg
+file: /courses/cms-633-digital-humanities-spring-2015/6443a6e9914af1fc5f44bfe86adaa43b_instructor.jpg
 file_size: 50689
 file_type: image/jpeg
 image_metadata:

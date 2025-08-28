@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding final presentation.
-file: /courses/cms-633-digital-humanities-spring-2015/5eabdcddbbafa970a12d2a335e20832d_MITCMS_633S15_Wubify_Pres.pdf
+file: /ol-ocw-studio-app/courses/cms-633-digital-humanities-spring-2015/5eabdcddbbafa970a12d2a335e20832d_MITCMS_633S15_Wubify_Pres.pdf
 file_size: 741522
 file_type: application/pdf
 learning_resource_types: []

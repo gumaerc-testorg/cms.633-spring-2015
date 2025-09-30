@@ -15,7 +15,7 @@ This page focuses on the course _CMS.633 Digital Humanities_ as it was taught by
 
 This course examines the theory and practice of using computational methods in the emerging field of digital humanities. It develops an understanding of key digital humanities concepts through the study of contemporary research, in conjunction with working on real-world projects for scholarly, educational, and public needs.
 
-Throughout the course, students engage in discussions about readings, do hands-on projects, explore digital humanities tools and techniques, and learn from guest speakers who work in museums, libraries, and research settings. Additionally, students annotate readings using the tool [Annotation Studio](http://www.annotationstudio.org/).
+Throughout the course, students engage in discussions about readings, do hands-on projects, explore digital humanities tools and techniques, and learn from guest speakers who work in museums, libraries, and research settings. Additionally, students annotate readings using the tool {{% resource_link "53e1cfbd-769d-48a5-a234-1ffd1068b7ab" "Annotation Studio" %}}.
 
 ## Course Outcomes
 

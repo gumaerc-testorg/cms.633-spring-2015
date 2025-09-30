@@ -38,9 +38,9 @@ In-Class Activity:
 2
 {{< tdclose >}}{{< tdopen >}}
 
-**Data Mining of Open Content:** [**The Artbot Project**](https://news.mit.edu/2015/artbot-engineers-discovery-art-0513)
+**Data Mining of Open Content:** {{% resource_link "d52c5dc5-4feb-4e85-afa0-5d008c5bab78" "**The Artbot Project**" %}}
 
-Guest Speakers: [Desi Gonzalez](http://cmsw.mit.edu/profile/desi-gonzalez/) and [Liam Andrew](http://cmsw.mit.edu/profile/liam-andrew/) from the CMS / Hyperstudio
+Guest Speakers: {{% resource_link "c4633156-28d7-453d-889e-b8fa65b475de" "Desi Gonzalez" %}} and {{% resource_link "3779f89a-edea-4090-80f0-9a505eecfe52" "Liam Andrew" %}} from the CMS / Hyperstudio
 
 Data Mining and NER Exercises
 
@@ -54,7 +54,7 @@ Assignment 1 due
 
 From Written Records to Humanities Data
 
-Guest Speaker: [Jeff Ravel](https://history.mit.edu/people/jeffrey-s-ravel), MIT History Department
+Guest Speaker: {{% resource_link "b957962b-6929-4c84-a13c-863cecacf4dd" "Jeff Ravel" %}}, MIT History Department
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 2 due
@@ -120,7 +120,7 @@ Assignment 6 due
 
 Final Project Pitches
 
-**Guest Speaker:** [Halsey Burgund](http://halseyburgund.com/), Artist and Mobile Developer
+**Guest Speaker:** {{% resource_link "b9d07f62-f0b8-4684-9c02-e7b188aeaa0e" "Halsey Burgund" %}}, Artist and Mobile Developer
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 7 due
@@ -149,7 +149,7 @@ Final Project In-Class Work Time
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-**Guest Speaker:** [Andy Stuhl](http://cmsw.mit.edu/profile/andy-stuhl/), Digital Sound Studies & Sound Projects
+**Guest Speaker:** {{% resource_link "cf6c9562-dacc-44b5-b970-60acab712b15" "Andy Stuhl" %}}, Digital Sound Studies & Sound Projects
 {{< tdclose >}}{{< tdopen >}}
 Assignment 8 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
